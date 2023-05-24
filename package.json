@@ -3,7 +3,7 @@
   "title": "React Router 6 Course",
   "version": "1.0.0",
   "private": true,
-  "main": "index.js",
+  "main": "index.html",
   "workspaces": [
     "01 - Introduction to React Router/*",
     "02 - Nested Routes/*",
